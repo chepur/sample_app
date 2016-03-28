@@ -1,5 +1,5 @@
 == README
 
-==Good Gemfile example!!
+== Good Gemfile example!!
 
 == Extended .gitignore
