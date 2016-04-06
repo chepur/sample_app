@@ -48,6 +48,9 @@ Spork.prefork do
     config.expect_with :rspec do |c|
       c.syntax = :expect
     end
+
+    #Add routes availability in specs:
+    config.include Rails.application.routes.url_helpers
   end
 end
 
