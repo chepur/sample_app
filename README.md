@@ -18,3 +18,5 @@ From tutorial:
     bundle exec rake db:migrate
     bundle exec rake db:test:prepare
     bundle exec rspec spec/
+
+Test!
