@@ -20,6 +20,7 @@ group :test do
   gem 'selenium-webdriver', '~> 2.53'
   gem 'capybara', '~> 2.6', '>= 2.6.2'
   gem 'libnotify', '0.9.1'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 gem 'sass-rails', '~> 5.0', '>= 5.0.4'
